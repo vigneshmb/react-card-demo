@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-card-demo/static/css/main.de4eec25.chunk.css",
+    "main.js": "/react-card-demo/static/js/main.98ca480e.chunk.js",
+    "main.js.map": "/react-card-demo/static/js/main.98ca480e.chunk.js.map",
+    "runtime-main.js": "/react-card-demo/static/js/runtime-main.b7cbc1f7.js",
+    "runtime-main.js.map": "/react-card-demo/static/js/runtime-main.b7cbc1f7.js.map",
+    "static/js/2.d25b67fa.chunk.js": "/react-card-demo/static/js/2.d25b67fa.chunk.js",
+    "static/js/2.d25b67fa.chunk.js.map": "/react-card-demo/static/js/2.d25b67fa.chunk.js.map",
+    "static/js/3.d448bdb3.chunk.js": "/react-card-demo/static/js/3.d448bdb3.chunk.js",
+    "static/js/3.d448bdb3.chunk.js.map": "/react-card-demo/static/js/3.d448bdb3.chunk.js.map",
+    "index.html": "/react-card-demo/index.html",
+    "static/css/main.de4eec25.chunk.css.map": "/react-card-demo/static/css/main.de4eec25.chunk.css.map",
+    "static/js/2.d25b67fa.chunk.js.LICENSE.txt": "/react-card-demo/static/js/2.d25b67fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7cbc1f7.js",
+    "static/js/2.d25b67fa.chunk.js",
+    "static/css/main.de4eec25.chunk.css",
+    "static/js/main.98ca480e.chunk.js"
+  ]
+}
